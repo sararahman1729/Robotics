@@ -1,2 +1,2 @@
 # Assignments
-This Repository basically contains my University Assignments solutions (scanned pdf version)
+This Repository basically contains my University Assignments and Projects related to Robotics
